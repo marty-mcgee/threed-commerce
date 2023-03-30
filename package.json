@@ -6,7 +6,7 @@
   "repository": "https://github.com/marty-mcgee/threed-ecommerce",
   "author": "Marty McGee",
   "engines": {
-    "node": "14.x",
+    "node": "^14.x",
     "npm": "You must use yarn in this project!",
     "yarn": "^1.22.x"
   },
